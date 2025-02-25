@@ -1,8 +1,8 @@
-Price Tracker Web App
+📊 Price Tracker Web App 🚀
+A powerful web application that monitors product prices across multiple e-commerce platforms using real-time web scraping. Stay ahead of price drops and never miss a great deal with automated alerts.
 
-This web application allows users to track product prices across different e-commerce platforms. It employs web scraping techniques to gather real-time pricing information and monitor price changes for specific products. The app is designed to send automated email alerts when the price of a tracked product drops or increases, ensuring users never miss a good deal.
-
-Features:
-Web Scraping: Collects real-time price data from various e-commerce sites.
-Price Tracking: Monitors the price of selected products and tracks any fluctuations.
-Email Notifications: Sends out automated emails to notify users when the price changes.
+🔹 Features
+🛒 Web Scraping – Collects real-time price data from various e-commerce sites.
+📈 Price Tracking – Monitors product prices and logs fluctuations over time.
+📬 Email Notifications – Sends automated alerts when a price drops or increases.
+Designed to help users track deals effortlessly, this app ensures you always get the best price. 💰
